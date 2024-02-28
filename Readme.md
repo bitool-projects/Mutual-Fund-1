@@ -1,6 +1,6 @@
 # Mutual Fund
 
-This Project helps you maintain student data.
+This Project created by 
 
 ## Table of Contents
 - [Screenshots](#screenshots)
