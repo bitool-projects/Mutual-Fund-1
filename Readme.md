@@ -1,4 +1,4 @@
-# Project Title
+# Mutual Fund
 
 This Project helps you maintain student data.
 
