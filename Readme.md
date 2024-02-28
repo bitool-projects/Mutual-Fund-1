@@ -1,6 +1,6 @@
 # Mutual Fund
 
-This Project created by 
+This Project created by Dhruvisha B.Sc. Data.
 
 ## Table of Contents
 - [Screenshots](#screenshots)
